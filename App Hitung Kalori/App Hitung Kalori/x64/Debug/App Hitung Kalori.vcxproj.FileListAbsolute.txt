@@ -1,0 +1,3 @@
+D:\TUGAS AKBAR\App Hitung Kalori\App Hitung Kalori\x64\Debug\App Hitung Kalori.vcxproj.AssemblyReference.cache
+D:\TUGAS AKBAR\App Hitung Kalori\App Hitung Kalori\x64\Debug\AppHitungKalori.MyForm.resources
+D:\TUGAS AKBAR\App Hitung Kalori\App Hitung Kalori\x64\Debug\App Hitung Kalori.vcxproj.GenerateResource.cache
